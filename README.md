@@ -11,7 +11,7 @@
 [BAI 7-BTLT](https://www.jdoodle.com/a/5I8r)
 ## BAI 5: HAM
 ### BAI TAP
-1.[BAI1]
+1.[BAI1](https://www.jdoodle.com/a/4J6m)
 2.[BAI2]
 ## BAI 6: MANG
 ### BAI TAP
