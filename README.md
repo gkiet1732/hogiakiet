@@ -1,1 +1,10 @@
-# hogiakiet
+# BAI TAP LAP TRINH
+## BAI 3: CAC CAU LENH RE NHANH 
+### BAI TAP 
+1. [BAI1]()
+## BAI 4: CAC CAU LENH LAP
+### BAI TAP
+## BAI 5: HAM
+### BAI TAP
+## BAI 6: MANG
+### BAI TAP
