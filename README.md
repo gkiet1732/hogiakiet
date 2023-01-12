@@ -7,7 +7,7 @@
 ## BAI 4: CAC CAU LENH LAP
 ### BAI TAP
 1. [BAI1](https://www.jdoodle.com/a/4J5T)
-2. {BAI2](https://www.jdoodle.com/a/4J5T)
+2. [BAI2](https://www.jdoodle.com/a/4J5T)
 [BAI 7-BTLT](https://www.jdoodle.com/a/5I8r)
 ## BAI 5: HAM
 ### BAI TAP
